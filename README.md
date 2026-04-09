@@ -84,5 +84,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
         <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_1/lec_1.2/">🖥️ Work 🔗</a></span>
       </td>
     </tr>
+    <tr style="background:#fff; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">1.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Exploratory Data Analysis</span></li>
+          <li><span style="color:#1976d2;">EDA using Univariate Analysis</span></li>
+          <li><span style="color:#388e3c;">EDA using Bivariate</span></li>
+          <li><span style="color:#fbc02d;">EDA using Multivariate Analysis</span></li>
+          <li><span style="color:#7b1fa2;">Pandas Profiling</span></li>
+        </ul>
+        <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_1/lec_1.3/">🖥️ Work 🔗</a></span>
+      </td>
+    </tr>
   </tbody>
 </table>

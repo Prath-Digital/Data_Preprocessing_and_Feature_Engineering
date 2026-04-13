@@ -128,5 +128,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
         <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_2/lec_2.1/">🖥️ Work 🔗</a></span>
       </td>
     </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">1.2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Missing Indicator + Random Sample Imputation</span></li>
+          <li><span style="color:#1976d2;">KNN Imputer (Multivariate Imputation)</span></li>
+        </ul>
+        <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_2/lec_2.2/">🖥️ Work 🔗</a></span>
+      </td>
+    </tr>
   </tbody>
 </table>

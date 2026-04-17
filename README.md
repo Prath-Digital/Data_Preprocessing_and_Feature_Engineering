@@ -168,5 +168,63 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
         <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_2/lec_2.5/">🖥️ Work 🔗</a></span>
       </td>
     </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff; background:transparent;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">4</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 2 Data Cleanser</b></td>
+    </tr>
+    <tr style="background:#fff; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">4.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">PR. 2 Data Cleanser</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Data_reprocessing_and_Feature_Engineering_PR.-2-Data-Cleanser" target="_blank">Code</a></span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff; background:transparent;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">5</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Assignment</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">5.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">📖 Assignment</span></li>
+          <li><span style="color:#1976d2;">⚙️ PR. Final Project</span></li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff; background:transparent;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">6</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Feature Transformation and Construction</b></td>
+    </tr>
+    <tr style="background:#fff; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">6.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Handling Mixed Variables</span></li>
+          <li><span style="color:#1976d2;">Handling Date and Time Variables</span></li>
+          <li><span style="color:#388e3c;">Complete Case Analysis (Handling Missing Data)</span></li>
+        </ul>
+        <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_3/lec_3.1/">🖥️ Work 🔗</a></span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">1.2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Encoding Categorical Data</span></li>
+          <ol style="margin:0;padding-left:18px;">
+            <li><span style="color:#1976d2;">Data Ordinal Encoding</span></li>
+            <li><span style="color:#388e3c;">Label Encoding</span></li>
+            <li><span style="color:#fbc02d;">One Hot Encoding</span></li>
+          </ol>
+        </ul>
+        <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_3/lec_3.2/">🖥️ Work 🔗</a></span>
+      </td>
+    </tr>
   </tbody>
 </table>

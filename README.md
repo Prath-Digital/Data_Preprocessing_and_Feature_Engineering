@@ -241,5 +241,31 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
         <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_3/lec_3.3/">🖥️ Work 🔗</a></span>
       </td>
     </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">6.4</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Feature Scaling</span></li>
+          <ol style="margin:0;padding-left:18px;">
+            <li><span style="color:#1976d2;">Standardization</span></li>
+            <li><span style="color:#388e3c;">Normalization</span></li>
+            <li><span style="color:#fbc02d;">MinMaxScaling</span></li>
+            <li><span style="color:#7b1fa2;">MaxAbsScaling</span></li>
+            <li><span style="color:#d32f2f;">RobustScaling</span></li>
+          </ol>
+        </ul>
+        <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_3/lec_3.4/">🖥️ Work 🔗</a></span>
+      </td>
+    </tr>
+    <tr style="background:#fff; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">6.5</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Feature Construction & Splitting</span></li>
+          <li><span style="color:#1976d2;">FunctionTransformer (Log Transform, Reciprocal Transform, Square Root Transform)</span></li>
+        </ul>
+        <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_3/lec_3.5/">🖥️ Work 🔗</a></span>
+      </td>
+    </tr>
   </tbody>
 </table>

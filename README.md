@@ -277,5 +277,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
         <span style="color:#fff;background:#2e7d32;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Work/ch_3/lec_3.6/">🖥️ Work 🔗</a></span>
       </td>
     </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff; background:transparent;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">7</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Revision</b></td>
+    </tr>
+    <tr style="background:#fff; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">7.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <span style="color:#d32f2f;">Revision Day - 1</span></li>
+      </td>
+    </tr>
   </tbody>
 </table>
